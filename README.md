@@ -32,4 +32,4 @@
 <img aalt='badged' src='https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuSoaress&theme=blue-green'>
 
 
-### Atualmente, desenvolvedor web com React.js e Node.js, ale de ser um dos meus principais hobbies, juntamente com jogar videogame e assistir anime.
+Atualmente, desenvolvedor web com React.js e Node.js, ale de ser um dos meus principais hobbies, juntamente com jogar videogame e assistir anime.
