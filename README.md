@@ -1,8 +1,10 @@
+# About Me:
+
 ### Olá! Eu sou Vinicius Soares 👋
 
 <img aalt='badged' src='https://github-readme-stats.vercel.app/api?username=viniciuSoaress&theme=blue-green'>
 
-# Tecnologias
+💻 Tash Staks:
 
   - Linguagems de Progamação
 <div>
